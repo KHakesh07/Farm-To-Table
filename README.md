@@ -1,0 +1,1 @@
+A user-centric mobile application designed to connect local farmers directly with consumers, promoting fresh, organic, and locally sourced produce. The app eliminates intermediaries, enabling farmers to list their available products, while users can browse, order, and schedule deliveries or pickups with ease.
