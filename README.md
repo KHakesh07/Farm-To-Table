@@ -27,6 +27,7 @@ A user-centric mobile application designed to connect local farmers directly wit
 Farm-To-Table/
 ├── app/                    # Mobile application
 ├── backend/                # Backend services & API
+├── LICENSE                 # MIT License
 └── README.md              # Project documentation
 ```
 
@@ -96,7 +97,7 @@ Contributions are welcome! Please feel free to submit a Pull Request with:
 
 ## 📄 License
 
-This project is currently unlicensed. See the repository for more details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
